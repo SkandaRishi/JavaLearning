@@ -1,5 +1,6 @@
----
+To make the content look like the provided example on GitHub, you can format it as follows:
 
+```markdown
 # Java - Introduction to Programming
 ## Lecture 2
 
@@ -10,8 +11,6 @@
    - Each variable should be given a unique name (identifier).
 
 ```java
-package com.apnacollege;
-
 public class Main {
     public static void main(String[] args) {
         // Variables
@@ -59,8 +58,6 @@ marks[2] = 95;
    - A constant is a variable in Java which has a fixed value i.e. it cannot be assigned a different value once assigned.
 
 ```java
-package com.apnacollege;
-
 public class Main {
     public static void main(String[] args) {
         // Constants
@@ -77,5 +74,4 @@ public class Main {
 
 **KEEP LEARNING & KEEP PRACTICING :)**
 *Apna College*
-
----
+```
